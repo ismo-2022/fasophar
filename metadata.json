@@ -1,0 +1,5 @@
+{
+  "name": "Remix Fasopharm_Cloud",
+  "description": "Système de gestion de pharmacie avec backend Supabase persistant.",
+  "requestFramePermissions": []
+}
